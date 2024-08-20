@@ -77,4 +77,4 @@ The final deliverable will be a comprehensive EDA report for Global Electronics,
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/DataSpark-Global-Electronics.git
+   git clone https://github.com/Gayu2212/DataSpark_-Illuminating-Insights-for-Global-Electronics
